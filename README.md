@@ -1,4 +1,4 @@
-# ResumeIQ — Explainable AI (XAI) Resume Screening System
+# ResumeIQ - Explainable AI (XAI) Resume Screening System
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
